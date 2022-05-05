@@ -10,6 +10,6 @@ A stable LED stripe PCB with a separate trace for a button.
 
 ## Links
 
-- [Schematic](https://github.com/glowingkitty/GlowTower/blob/main/GlowTowerPCB/GlowTowerPCB.pdf)
+- [Schematic](https://github.com/glowingkitty/GlowTower/blob/main/GlowStripe/GlowLEDsPCB.pdf)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/glowingkitty/GlowStripe/blob/main/bom/ibom.html)
-- [PCB stencils](https://github.com/glowingkitty/GlowTower/blob/main/GlowTowerPCB/PCB%20stencils)
+- [PCB stencils](https://github.com/glowingkitty/GlowTower/blob/main/GlowStripe/PCB%20stencils)
